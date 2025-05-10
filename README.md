@@ -4,10 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Klee+One&size=25&duration=2000&pause=5000&color=FFCEE5&center=true&vCenter=true&lines=%E0%BC%BA+welcome+to+my+profile+%E0%BC%BB" alt="Typing SVG" /></a>
 <br><br>
 <pre> 
-    👩🏻‍💻 25y • She/her • São Paulo, Brazil
-    📖 BS in Computer Science 1/8 at UAM 
-    💻 Back-end's Enthusiast • Python • SQL
-    🎮 Games • Code • Art&Design • Cats 
+👩🏻‍💻 25y • She/her • São Paulo, Brazil
+📖 BS in Computer Science 1/8 at UAM 
+💻 Back-end's Enthusiast • Python • SQL
+🎮 Games • Code • Art&Design • Cats 
 </pre>
 <br><br>
 
